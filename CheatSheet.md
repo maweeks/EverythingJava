@@ -96,7 +96,6 @@ myInteger-=5;
 
 ### Boolean operators:
 
-Logical AND:
 ```
 // Logical AND
 myBool = a && b;
@@ -117,4 +116,56 @@ myBool = !a;
 | false | true | false | true | true | true |
 | true | false | false | true | true | false |
 | true | true | true | true | false | false |
+
+### If statements:
+
+```
+boolean boolA, boolB;
+if (boolA) {
+    // code to run if boolA is true
+}
+else if (boolB) {
+    // code to run if boolB is true
+}
+else {
+    // code to run if all previous conditions are false
+}
+```
+
+### Number comparison:
+
+```
+
+```
+
+### String comparison:
+
+```
+
+```
+
+### Reading from the console:
+
+```
+// at the top of the file
+import java.util.Scanner;
+
+// inside the method that you want to read the user input in
+Scanner sc = new Scanner(System.in);
+
+// at the position in the file where you want to read the user's input
+String myString = sc.nextLine();
+
+```
+
+
+
+
+
+
+
+
+
+
+
 

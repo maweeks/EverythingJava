@@ -20,11 +20,19 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 * Numeric operators
 * Boolean operators
 
-### Coming soon:
+### Lesson 2 - Ifs and loops:
 
+* Lesson 1 recap
 * If statements
 * Variable comparison
+* Reading from the console
+
+
+### Coming soon:
+
+* Lesson 2 recap
 * Loops
 * Functions
 * Objects
 * Classes
+* Arrays
