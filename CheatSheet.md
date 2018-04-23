@@ -135,13 +135,30 @@ else {
 ### Number comparison:
 
 ```
+// a equals b
+a == b
 
+// a does not equal b
+a != b
+
+// a is greater than or equal to b
+a >= b
+
+// a is less than or equal to b
+a <= b
+
+// a is greater than b
+a > b
+
+// a is less than b
+a < b
 ```
 
 ### String comparison:
 
 ```
-
+// stringOne equals stringTwo
+stringOne.equals(stringTwo);
 ```
 
 ### Reading from the console:
@@ -159,13 +176,80 @@ String myString = sc.nextLine();
 ```
 
 
+### Arrays
+
+```
+// Create an array of size five
+String [] myList = new String[5];
+
+// Add to my array at position zero
+myList[0] = "My list text.";
+
+// Get from my array at position zero
+myList[0];
+```
+
+### ArrayLists
+
+```
+// Import the class (at top of file)
+import java.util.ArrayList;
+
+// Create an ArrayList
+ArrayList<String> myArrayList = new ArrayList<String>();
+
+// Add to my ArrayList
+myArrayList.add("My list text.");
+
+// Get from my array at position zero
+myArrayList.get(0);
+```
+
+### Loops
+
+```
+// For loop
+for (int i = 0; i < 10; i++) {
+    // looped code goes here
+}
+
+// While loop
+while (condition) {
+    // looped code goes here
+}
+```
 
 
+### Switch statement
 
+```
+// Switch over String variable grade to get grade boundary.
+String grade = "B";
+int gradeBoundary = -1;
+switch (grade) {
+    case "A":
+        gradeBoundary = 80;
+        break;
+    case "B":
+        gradeBoundary = 60;
+        break;
+    case "C":
+        gradeBoundary = 40;
+        break;
+    default:
+        gradeBoundary = 0;
+        break;
+}
+```
 
+### Methods
 
+```
+// Example method to return the sum of two numbers
+private int addNumbers(int firstNumber, int secondNumber) {
+    return (firstNumber + secondNumber);
+}
 
-
-
-
-
+// scope returnType methodName(variableType, variableName)
+// method will end at the return statement.
+```
