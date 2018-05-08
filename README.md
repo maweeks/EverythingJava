@@ -2,7 +2,7 @@
 
 This repository has the contents used to teach new developers Java from scratch.
 
-It will be updated ~weekly with new content as each lesson is completed.
+It will be updated (roughly) weekly with new content as each lesson is completed.
 
 There is a cheat sheet avaible with a summary of all the content that has been taught so far.
 
@@ -11,6 +11,7 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 ### Below are some useful links for further learning / reference:
 
 * [Java Documentation](https://docs.oracle.com/javase/7/docs/api/)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Codecademy](https://www.codecademy.com/learn/learn-java)
 * [LearnJavaOnline](http://www.learnjavaonline.org/)
 * [TutorialsPoint](https://www.tutorialspoint.com/java/index.htm)
@@ -24,16 +25,16 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 
 ### Over the next few lessons:
 
-* Lesson 5 recap
-* Escape characters
+* Lesson 6 recap
 * Code style
-* Casting
-* Scopes and static
 * Using multiple classes
+* Scopes and static
+* Casting
 * Logging
 * Unit tests
 * Recursion
 * Algorithms
+* And much more...
 
 # Current Content
 
@@ -65,10 +66,17 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 ### Lesson 004 - Switch statements:
 * Lesson 003 recap
 * Switch statements
-* Challenge 01
+* Challenge 01 (part i and ii)
 
 ### Lesson 005 - Methods:
 * Challenge 01 review (part i and ii)
 * Lesson 004 recap
 * Methods
 * Return statements
+
+### Lesson 006 - Constants:
+* Challenge 01 review (part i and ii)
+* Lesson 005 recap
+* Escape characters
+* Code style - naming
+* Constants

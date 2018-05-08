@@ -253,3 +253,30 @@ private int addNumbers(int firstNumber, int secondNumber) {
 // scope returnType methodName(variableType, variableName)
 // method will end at the return statement.
 ```
+
+### Escape characters
+
+```
+// In Java, the \ character allows you to use reserved characters in strings
+// To output \
+String example = "\\";
+
+// To output "
+String example = "\"";
+
+// To output a new line
+String example = "\n";
+
+// To output a tab
+String example = "\t";
+```
+### Contants
+
+```
+// Contants are definted at the top of a class
+public class MyClass {
+    public static final String APP_NAME = “Test Constants”;
+    public static final String APP_VERSION = “V0.0.1”;
+    // Rest of class code goes here…
+}
+```
