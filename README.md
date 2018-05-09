@@ -66,7 +66,7 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 ### Lesson 004 - Switch statements:
 * Lesson 003 recap
 * Switch statements
-* Challenge 01 (part i and ii)
+* Challenge 01 set
 
 ### Lesson 005 - Methods:
 * Challenge 01 review (part i and ii)
@@ -75,7 +75,6 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 * Return statements
 
 ### Lesson 006 - Constants:
-* Challenge 01 review (part i and ii)
 * Lesson 005 recap
 * Escape characters
 * Code style - naming
