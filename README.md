@@ -6,6 +6,8 @@ It will be updated (roughly) weekly with new content as each lesson is completed
 
 There is a cheat sheet avaible with a summary of all the content that has been taught so far.
 
+# Challenge 2 set at the end of Lesson 9 presentation
+
 # Useful Resources
 
 ### Below are some useful links for further learning / reference:
@@ -79,3 +81,21 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 * Escape characters
 * Code style - naming
 * Constants
+
+### Lesson 007 - Classes:
+* Lesson 006 recap
+* Code style - brackets
+* Multiple class applications
+* Scopes
+* Getters and setters
+
+### Lesson 008 - Logging:
+* Lesson 007 recap
+* Wildcard imports
+* Logging
+
+### Lesson 009 - Classes:
+* Lesson 008 recap
+* Challenge 01 review (part iii)
+* Inheritance
+* Challenge 02 set
