@@ -1,0 +1,9 @@
+.header {
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+}
+.sideButton {
+    -fx-color: red;
+    -fx-pref-width: 100;
+    -fx-margin: 5 5 5 5;
+}
