@@ -23,7 +23,6 @@ public class TempMain extends Application {
         primaryStage.setTitle("Test UI");
         StackPane root = new StackPane();
         Scene scene1 = new Scene(root, 300, 135);
-        // scene1.getStylesheets().add("style.css");
         BorderPane base = new BorderPane();
         BorderPane mainContent = new BorderPane();
 
