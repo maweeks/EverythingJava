@@ -270,13 +270,112 @@ String example = "\n";
 // To output a tab
 String example = "\t";
 ```
-### Contants
+### Constants
 
 ```
-// Contants are definted at the top of a class
+// Constants are definted at the top of a class
 public class MyClass {
     public static final String APP_NAME = “Test Constants”;
     public static final String APP_VERSION = “V0.0.1”;
     // Rest of class code goes here…
+}
+```
+
+### Class constructors
+
+```
+// Constructors are used to initialise a class.
+public class MyClassName {
+    public String name;
+    public MyClassName(String name) {
+        this.name = name;
+    }
+}
+```
+
+### Scopes
+
+Scopes define what parts of the program can access the variable / method / class.
+
+| modifier | class | package | subclass | world |
+| ------ | ------ | ------ | ------ | ------ |
+| public | yes | yes | yes | yes |
+| protected | yes | yes | yes | no |
+| default | yes | yes | no | no |
+| private | yes | no | no | no |
+
+### Getters and setters
+
+```
+// Used to encapsulate variables so methods are used rather than accessing the variable directly.
+private int price;
+
+public int getPrice() {
+    return price;
+}
+
+public void setPrice(int price) {
+    this.price = price;
+}
+```
+
+### Imports
+
+```
+// individual import
+import java.util.ArrayList;
+
+// wildcard import (star import)
+import java.util.*;
+
+// use individual imports where possible
+```
+
+### Logging example
+
+```
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class TempMain {
+    private static final Logger LOGGER = Logger.getLogger("");
+    public static void main(String[] args) {
+        LOGGER.info("Logger Name: "+LOGGER.getName());
+    }
+}
+```
+
+### Subclass
+
+```
+// To create a subclass add the extends keyword to the class definition.
+public class Dog extends Animal {
+    private String breed;
+
+    public Dog(String breed, int numberOfLegs) {
+        super(numberOfLegs);
+
+        this.breed = breed;
+    }
+}
+```
+
+### Casting
+
+```
+// Casting an Animal to the class dog.
+Animal animal = new Animal();
+Dog newDog = (Dog) animal;
+```
+
+### Try / catch
+
+```
+// Allows you to handle errors instead of the program getting stopped.
+try {
+    // expression that could throw an error
+} catch (Exception e) {
+    // action when error is thrown
+    System.out.println(e);
 }
 ```

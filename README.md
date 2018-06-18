@@ -6,9 +6,7 @@ It will be updated (roughly) weekly with new content as each lesson is completed
 
 There is a cheat sheet avaible with a summary of all the content that has been taught so far.
 
-# Challenge 2 set at the end of Lesson 9 presentation
-
-# Useful Resources
+## Useful Resources
 
 ### Below are some useful links for further learning / reference:
 
@@ -23,22 +21,83 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 * [reddit/learnjava](https://www.reddit.com/r/learnjava/)
 * [StackOverflow](https://stackoverflow.com/tags/java)
 
-# Coming soon
+### JavaFX (User Interface)
+
+* [Controls](https://www.tutorialspoint.com/javafx/javafx_ui_controls.htm)
+* [Dialogs](http://code.makery.ch/blog/javafx-dialogs-official/)
+* [Layouts](https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm)
+
+## Schedule
 
 ### Over the next few lessons:
 
-* Lesson 6 recap
-* Code style
-* Using multiple classes
-* Scopes and static
-* Casting
-* Logging
-* Unit tests
+* Personal projects
+* Testing your project
 * Recursion
 * Algorithms
 * And much more...
 
-# Current Content
+## Current Content
+
+### Lesson 011 - JavaFX:
+* UI basics
+* Alerts
+* Multiple windows
+* Complex UIs
+* Stylesheets
+
+### Lesson 010 - Error Handling:
+* Lesson 009 recap
+* Casting
+* Error handling
+
+### Lesson 009 - Classes:
+* Lesson 008 recap
+* Challenge 01 review (part iii)
+* Inheritance
+* Challenge 02 set
+
+### Lesson 008 - Logging:
+* Lesson 007 recap
+* Wildcard imports
+* Logging
+
+### Lesson 007 - Classes:
+* Lesson 006 recap
+* Code style - brackets
+* Multiple class applications
+* Scopes
+* Getters and setters
+
+### Lesson 006 - Constants:
+* Lesson 005 recap
+* Escape characters
+* Code style - naming
+* Constants
+
+### Lesson 005 - Methods:
+* Challenge 01 review (part i and ii)
+* Lesson 004 recap
+* Methods
+* Return statements
+
+### Lesson 004 - Switch statements:
+* Lesson 003 recap
+* Switch statements
+* Challenge 01 set
+
+### Lesson 003 - Arrays and loops:
+* Lesson 002 recap
+* Arrays
+* ArrayLists
+* Loops
+
+### Lesson 002 - If statements:
+
+* Lesson 001 recap
+* If statements
+* Variable comparison
+* Reading from the console
 
 ### Lesson 001 - Introduction and basics:
 
@@ -51,51 +110,3 @@ There is a cheat sheet avaible with a summary of all the content that has been t
 * String concatenation
 * Numeric operators
 * Boolean operators
-
-### Lesson 002 - If statements:
-
-* Lesson 001 recap
-* If statements
-* Variable comparison
-* Reading from the console
-
-### Lesson 003 - Arrays and loops:
-* Lesson 002 recap
-* Arrays
-* ArrayLists
-* Loops
-
-### Lesson 004 - Switch statements:
-* Lesson 003 recap
-* Switch statements
-* Challenge 01 set
-
-### Lesson 005 - Methods:
-* Challenge 01 review (part i and ii)
-* Lesson 004 recap
-* Methods
-* Return statements
-
-### Lesson 006 - Constants:
-* Lesson 005 recap
-* Escape characters
-* Code style - naming
-* Constants
-
-### Lesson 007 - Classes:
-* Lesson 006 recap
-* Code style - brackets
-* Multiple class applications
-* Scopes
-* Getters and setters
-
-### Lesson 008 - Logging:
-* Lesson 007 recap
-* Wildcard imports
-* Logging
-
-### Lesson 009 - Classes:
-* Lesson 008 recap
-* Challenge 01 review (part iii)
-* Inheritance
-* Challenge 02 set
