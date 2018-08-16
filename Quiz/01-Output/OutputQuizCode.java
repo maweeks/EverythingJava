@@ -1,5 +1,6 @@
 public class OutputQuizCode {
     public static void main(String[] args) {
+        qu01();
     }
 
     private static void qu01() {

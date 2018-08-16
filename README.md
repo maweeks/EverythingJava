@@ -29,7 +29,7 @@ There is a cheat sheet available with a summary of all the content that has been
 
 ## Schedule
 
-### Over the next few lessons:
+### Over the next few lessons
 
 * Personal projects
 * Testing your project

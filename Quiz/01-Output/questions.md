@@ -116,10 +116,10 @@ d) `qu18("abc-test");`
 
 ***Question 19***
 
-a) `qu18("abc");`
-b) `qu18("test-abc");`
-c) `qu18("ABC");`
-d) `qu18("abc-test");`
+a) `qu19("abc");`
+b) `qu19("test-abc");`
+c) `qu19("ABC");`
+d) `qu19("abc-test");`
 
 ## Loops
 
@@ -189,3 +189,113 @@ b) `qu30(true, 3);`
 c) `qu30(true, 6);`
 d) `qu30(true, -3);`
 e) What does this function do?
+
+## Arrays and ArrayLists
+
+***Question 31***
+
+a) `qu31(0);`
+b) `qu31(3);`
+c) `qu31(5);`
+
+***Question 32***
+
+a) `qu32(1);`
+b) `qu32(0);`
+c) `qu32(3);`
+
+***Question 33***
+
+a) `qu33(21);`
+b) `qu33(12);`
+c) `qu33(99);`
+d) `qu33(16);`
+
+***Question 34***
+
+a) `qu34(3, 7);`
+b) `qu34(81, 137);`
+c) `qu34(23, 17);`
+d) `qu34(31, 37);`
+
+***Question 35***
+
+a) `qu35("Molly");`
+b) `qu35("Bailey");`
+c) `qu35("Sophie");`
+d) `qu35("Luna");`
+
+***Question 36***
+
+a) `qu36(4);`
+b) `qu36(7);`
+
+***Question 37***
+
+a) `qu37();`
+
+***Question 38***
+
+a) `qu38();`
+
+***Question 39***
+
+a) `qu39();`
+
+***Question 40***
+
+a) `qu40(new int[]{1, 2, 3, 4, 5});`
+b) `qu40(new int[]{7, 3, -5, 0});`
+c) `qu40(new int[]{18, 22, 13, 7});`
+d) `qu40(new int[]{-3, -5, -7, -13});`
+
+***Question 41***
+
+a) `qu41(new int[]{1, 2, 3, 4, 5});`
+b) `qu41(new int[]{7, 3, -5, 0});`
+c) `qu41(new int[]{18, 22, 13, 7});`
+d) `qu41(new int[]{-3, -5, -7, -13});`
+
+***Question 42***
+
+a) `qu42(new int[]{1, 2, 3, 4, 5});`
+b) `qu42(new int[]{7, 3, -5, 0});`
+c) `qu42(new int[]{18, 22, 13, 7});`
+d) `qu42(new int[]{-3, -5, -7, -13});`
+e) What does this function do?
+
+## Switch statements
+
+***Question 43***
+
+a) `qu43(2);`
+b) `qu43(3);`
+c) `qu43(5);`
+d) `qu43(9);`
+e) What does this function do?
+
+***Question 44***
+
+a) `qu44("Feb");`
+b) `qu44("Jul");`
+c) `qu44("December");`
+d) `qu44("");`
+e) What does this function do?
+
+***Question 45***
+
+a) `qu45('A');`
+b) `qu45('C');`
+c) `qu45('F');`
+d) `qu45('D');`
+e) `qu45('G');`
+f) What does this function do?
+
+***Question 46***
+
+a) `qu46(100);`
+b) `qu46(99);`
+c) `qu46(59);`
+d) `qu46(60);`
+e) `qu46(37);`
+f) What does this function do?
