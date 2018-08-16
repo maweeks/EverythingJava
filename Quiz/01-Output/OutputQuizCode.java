@@ -462,4 +462,42 @@ public class OutputQuizCode {
                 System.out.println('U');
         }
     }
+
+    private static void qu47(String movieRating) {
+        ArrayList<String> filmsU = new ArrayList<>();
+        filmsU.add("Hotel transylvania 3");
+        ArrayList<String> filmsPG = new ArrayList<>();
+        filmsPG.add("Incredibles 2");
+        filmsPG.add("Teen titans go! to the movies");
+        filmsPG.add("Duck duck goose");
+        ArrayList<String> films12A = new ArrayList<>();
+        films12A.add("The meg");
+        films12A.add("Ant-man and the wasp");
+        films12A.add("Mission impossible - fallout");
+        ArrayList<String> films12 = new ArrayList<>();
+        ArrayList<String> films15 = new ArrayList<>();
+        films15.add("The first purge");
+        films15.add("The equalizer 2");
+        films15.add("The spy who dumped me");
+        ArrayList<String> films18 = new ArrayList<>();
+
+        ArrayList<String> availableMovies = new ArrayList<>();
+        switch (movieRating) {
+            case "18":
+                availableMovies.addAll(films18);
+            case "15":
+                availableMovies.addAll(films15);
+            case "12":
+                availableMovies.addAll(films12);
+            case "12A":
+                availableMovies.addAll(films12A);
+            case "PG":
+                availableMovies.addAll(filmsPG);
+            default:
+                availableMovies.addAll(filmsU);
+                break;
+        }
+
+        System.out.println(availableMovies.toString());
+    }
 }

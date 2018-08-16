@@ -299,3 +299,12 @@
 `qu46(60);`
 `qu46(37);`
 `# What does this function do?`
+
+`System.out.println("Question 47")'`
+
+`qu47("U");`
+`qu47("15");`
+`qu47("12");`
+`qu47("PG");`
+`qu47("Other rating");`
+`# What does this function do?`

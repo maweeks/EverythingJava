@@ -299,3 +299,12 @@ c) `qu46(59);`
 d) `qu46(60);`
 e) `qu46(37);`
 f) What does this function do?
+
+***Question 47***
+
+a) `qu47("U");`
+b) `qu47("15");`
+c) `qu47("12");`
+d) `qu47("PG");`
+e) `qu47("Other rating");`
+f) What does this function do?
