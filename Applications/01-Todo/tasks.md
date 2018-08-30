@@ -6,6 +6,7 @@
 * Add more tasks to prove it works
 * Add ability to size todo list items
 * Create a name and version of your application
+* Add ability to interact with application through console
 * Allow the user to check the application details added above
 * Add ability to add notes to todo list items
 * Add ability to have multiple lists
